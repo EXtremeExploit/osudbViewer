@@ -1,0 +1,7 @@
+# IDE
+.vscode
+# Executable
+main
+
+# Testing
+*.db
